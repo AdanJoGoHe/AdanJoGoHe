@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/adan-workshop.png" alt="A warm pixel-art programming workshop overlooking a blocky landscape" width="100%" />
+  <img src="assets/adan-workshop.jpg" alt="A warm pixel-art programming workshop overlooking a blocky landscape" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Adán 👋</h1>

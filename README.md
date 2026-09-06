@@ -4,14 +4,9 @@
 
 <h1 align="center">Hi, I'm Adán 👋</h1>
 
-<p align="center">
-  <strong>Java developer · Curious builder · Occasional block-world tinkerer</strong>
-</p>
+<p align="center"> <strong>Java developer · Always curious · Usually building something</strong> </p>
 
-<p align="center">
-  I turn ideas and things I enjoy into software — from documented business applications<br />
-  to Minecraft mods and small tools that make development easier.
-</p>
+<p align="center"> I like working on things that are useful, interesting, or just fun to build <br /> from business software to side projects and little ideas </p>
 
 <p align="center">
   <a href="https://github.com/AdanJoGoHe?tab=repositories">Explore my repositories</a>

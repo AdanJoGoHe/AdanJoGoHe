@@ -32,7 +32,7 @@ A documented prototype for managing repairs in a computer shop. It covers the pr
 - Built mobile CRUD flows for customers, operators, products and repairs.
 
 <p align="center">
-  <img src="https://i.imgur.com/ZRobkKw.gif" alt="OldSolutions flow for adding a record" width="520" />
+  <img src="https://i.imgur.com/ZRobkKw.gif" alt="OldSolutions flow for adding a record" width="360" />
 </p>
 
 <p align="center">

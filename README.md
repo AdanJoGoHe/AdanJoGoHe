@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi, I'm Adán 👋</h1>
 
-<p align="center"> <strong>Java developer · Usually building something</strong> </p>
+<p align="center"> <strong>Developer · Usually building something</strong> </p>
 
-<p align="center"> I like working on things that are useful, interesting, or just fun to build <br /> from business software to side projects and little ideas </p>
+<p align="center"> I like working on things that are useful, interesting, or just fun to build </p>
 
 <p align="center">
   <a href="https://github.com/AdanJoGoHe?tab=repositories">Explore my repositories</a>
